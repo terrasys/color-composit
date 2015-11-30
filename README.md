@@ -1,5 +1,5 @@
 # color-composit.R
-R script for a color composit of three terrain attributes
+R script for the combination of three terrain attributes enabling a color combination
 ----------------------------------------------------------
 A color composite of terrain attributes makes visible landscape-related process domains like floodplains, valleys and slopes. Examples of color composites are published in the following articles.
 ----------------------------------------------------------
