@@ -11,4 +11,4 @@ Möller, M., Koschitzki, T., Hartmann, K.-J., Jahn, R., 2012. Plausibility test 
 
 Möller, M., Volk, M., Friedrich, K., Lymburner, L., 2008. Placing soil-genesis and transport processes into a landscape context: A multiscale terrain-analysis approach. Journal of Plant Nutrition and Soil Science 171, 419-430
 
-The folder data contains four example terrain attributes on which the script can be applied. The combination of RSP1 or RSP2 (red), MBI (green) and LS-factor (blue) results in a color composit. Flat areas - which are lower and flater relative to their surroundings - are shown in in green. Steeper slopes and valleys correspond to the colors blue and magenta. The saturation of the color orange indicates the relative height. 
+The folder data contains four example terrain attributes on which the script can be applied. The combination of RSP1 or RSP2 (red), MBI (green) and LS-factor (blue) results in a color composit. Flat areas - which are lower and flater relative to their surroundings - are shown in green. Steeper slopes and valleys correspond to the colors blue and magenta. The saturation of the color orange indicates the relative height. 
