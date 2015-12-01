@@ -11,4 +11,4 @@ Möller, M., Koschitzki, T., Hartmann, K.-J., Jahn, R., 2012. Plausibility test 
 
 Möller, M., Volk, M., Friedrich, K., Lymburner, L., 2008. Placing soil-genesis and transport processes into a landscape context: A multiscale terrain-analysis approach. Journal of Plant Nutrition and Soil Science 171, 419-430
 
-The folder data contains three example terrain attributes on which the script can be applied. 
+The folder data contains four example terrain attributes on which the script can be applied.
