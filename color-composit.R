@@ -9,13 +9,12 @@
 #packages
 #######################################################################################################
 loadandinstall <- function(mypkg) {if (!is.element(mypkg,
-                                                   installed.packages()[,1])){install.packages(mypkg)};
-  library(mypkg, character.only=TRUE)  }
-
+                                        installed.packages()[,1])){install.packages(mypkg)};
+                                        library(mypkg, character.only=TRUE)}
 pk <- c("raster","rgdal","tcltk","manipulate")
 for(i in pk){loadandinstall(i)}
 #######################################################################################################
-#Definition of possible data  types
+#Definition of possible data  formates
 #######################################################################################################
 Filters <- matrix(c("tif", "*.tif", "asc", "*.asc", "flt", "*.flt",
                     "SAGA", "*.sdat", "All files", "*"),
